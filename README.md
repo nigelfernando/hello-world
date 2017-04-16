@@ -1,2 +1,2 @@
 # hello-world
-First use of account
+some info about me
